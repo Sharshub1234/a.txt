@@ -1,7 +1,4 @@
 this is the first line in a.txt
 this is the second line in a.txt
-<<<<<<< HEAD
-this is the third line in the child
-=======
 this is the third line from the branch called newbranch
->>>>>>> newbranch
+
